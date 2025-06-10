@@ -24,7 +24,7 @@ But I’m also quite eclectic! I'm a gamer and a K-pop enthusiast, so you might 
 
 ## 📂 Featured Projects
 
-🔹 [TripleTen Data Analysis Portfolio](https://github.com/gabriel-amoroso/tripleten_dataanalysis)  
+🔹 [Bootcamp in Data Analysis Portfolio](https://github.com/gabriel-amoroso/bootcamp_dataanalysis)  
 End-to-end data analysis projects tackling real-world problems like A/B testing, customer segmentation, and churn prediction using Python and Jupyter Notebooks.
 
 🔹 [ConnectEco Hackathon – Data Role](https://github.com/Connect-Eco)  
