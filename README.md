@@ -1,11 +1,10 @@
 ![PharmacistImage](https://github.com/gabriel-amoroso/gabrielamoroso/blob/main/Pharmacist%20and%20Data%20Analyst.png)
 
-# Hey :D
+# Hey :D I'm Gabriel Amoroso 👋
 
 🎓 Pharmacist turned Data Analyst passionate about leveraging technology to make healthcare smarter  
 📊 I specialize in transforming data into insights, using Python, SQL, and BI tools  
 ☁️ Exploring cloud platforms like AWS and Azure to scale impact through data pipelines  
-📍 Currently based in Dublin, Ireland — open to job opportunities in Data, Analytics & Cloud
 
 This is a space where I share projects I’m currently working on or have completed.  
 A significant part of my portfolio focuses on my area of expertise — medications, pharmaceutical finance, epidemiology, and genetics.  
@@ -18,7 +17,7 @@ But I’m also quite eclectic! I'm a gamer and a K-pop enthusiast, so you might 
 - **Languages**: Python, SQL  
 - **Data Analysis**: Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn  
 - **Visualization**: Power BI, Plotly, Tableau  
-- **Cloud & Tools**: AWS (S3, EC2), Azure Synapse, Git, Jupyter, Linux  
+- **Cloud & Tools**: Learning: AWS (S3, EC2) and Azure
 - **Soft Skills**: Scientific thinking, team collaboration, adaptability
 
 ---
