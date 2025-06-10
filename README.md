@@ -23,3 +23,6 @@ But I’m also quite eclectic! I'm a gamer and a K-pop enthusiast, so you might 
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gabrielamoroso&theme=synthwave&show_icons=true&hide_border=true&hide_title=true&line_height=47)](https://github.com/gabrielamoroso/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielamoroso&theme=synthwave&show_icons=true&hide_border=true&hide_title=true&layout=donut-vertical)](https://github.com/gabrielamoroso/github-readme-stats)
+
+
+![Gabriel's GitHub stats](https://github-readme-stats.vercel.app/api?username=GabrielAmoroso&show_icons=true&theme=default)
