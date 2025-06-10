@@ -31,6 +31,16 @@ End-to-end data analysis projects tackling real-world problems like A/B testing,
 🔹 [ConnectEco Hackathon – Data Role](https://github.com/Connect-Eco)  
 Collaborated in a sustainability-focused hackathon. I contributed to the data analysis, metrics design, and business logic to support an eco-conscious platform connecting consumers and businesses.
 
+--- 
+
+## 📈 GitHub Stats
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gabriel-amoroso&theme=synthwave&show_icons=true&hide_border=true&hide_title=true&line_height=47)](https://github.com/gabrielamoroso/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gabriel-amoroso&theme=synthwave&show_icons=true&hide_border=true&hide_title=true&layout=donut-vertical)](https://github.com/gabrielamoroso/github-readme-stats)
+
+---
+
+## 📫 Let's Connect
+
+- [LinkedIn](https://www.linkedin.com/in/gabrielamoroso/)  
+- Email: gabrielamorosodecastro@gmail.com
